@@ -11,24 +11,31 @@
 
 ## Features
 
- ### Navigation
- A navigation element where you easily can navigate the sites content without using "forward" and "back" buttons
+ ### Navigation:
+ A navigation element where the user easily can navigate the sites content without using "forward" and "back" buttons. The nav. element works by navigation links to the different pages
 
- ### Homepage
+ ### Homepage:
+ A page with the main content and introductory text which show the user what he or she will find on the site and what the use of the site is for. Display main content and is the center page of the websites information and structure
 
- ### Gallery page 
+ ### Gallery page: 
+ A page which holds pictures and video elements from the gym which will work as a tool to give the user a perception of what the gym looks like and give a short feeling on the social atmospher. 
+ * The gallery page also contains image elements and video elements to give the user a good insight in the main content
 
- ### Contact page
+ ### Contact page:
+ A page with the gyms all contact information which enables useres to get in contact easily with the gym and find it on the map
+ * The contact page is also displaying a map from google maps to increase the useability. It displays the gyms location on the map as a complement to the written address
 
  ### Footer
+The footer sits at the bottom of all the websites pages and display links and font awesome symbols to social media platforms where the gym is active
 
- ### Header
+ ### Header:
+ The header contains the logo of the gym "Gym Exercise and the navigation links mentioned earlier
 
-### future features
+## future features:
 
-#### Schedule page for training sessions
+#### Schedule page for training sessions:
 
-#### Member login
+#### Member login:
 
 ## Typography and color scheme
 
