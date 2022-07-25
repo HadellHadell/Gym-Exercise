@@ -1,8 +1,13 @@
 # Gym Exercise
 
 ## Purpose of the project
+ The purpose of the project is to build an easy to use static Webbsite for people interested in gym exercising
 
 ## User stories
+
+* Visitors to the webbsite see a link to a contact page with contact information ehich enable them to contact the gym
+* Visitors intertested in gym exercising see a link to a photo gallery which enables the visitor so see videos and pictures of the gym
+* Visiting visitors Start out at the homepage where they see introductory content and inspirational text which tells the visitor what the webbsite contains and offers
 
 ## Features
 
