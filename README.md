@@ -11,11 +11,34 @@
 
 ## Features
 
+ ### Navigation
+ A navigation element where you easily can navigate the sites content without using "forward" and "back" buttons
+
+ ### Homepage
+
+ ### Gallery page 
+
+ ### Contact page
+
+ ### Footer
+
+ ### Header
+
 ### future features
+
+#### Schedule page for training sessions
+
+#### Member login
 
 ## Typography and color scheme
 
+### Fonts
+
+### Color
+
 ## Wireframes
+
+(screenshot and explanation)
 
 ## Technology
 
