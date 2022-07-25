@@ -29,19 +29,23 @@
 The footer sits at the bottom of all the websites pages and display links and font awesome symbols to social media platforms where the gym is active
 
  ### Header:
- The header contains the logo of the gym "Gym Exercise and the navigation links mentioned earlier
+ The header contains the logo of the gym "Gym Exercise and the navigation links mentioned earlier. The logo has the function that when you click it you automatically gets directed to the homepage
 
 ## future features:
 
-#### Schedule page for training sessions:
+### Schedule page for training sessions:
+ In the future i would like to implament a schedule feature where the usere can observe a schedule with training sessions lead by the gym staff. The schedule should display which time the sessions is taking place and where in the gym (or parhaps if it is an outdoor session).
 
-#### Member login:
+### Member login:
+I would also in the future implament at member page where member log in via the main page and get directed to this new page. On this page i want to show the user features as when the user last visited the gym and for how long that session lasted. I would like to give the user the ability to log and track progress related to their training sessions from the gym so the member page becomes a useful tool.
 
 ## Typography and color scheme
-
+The fonts and color scheme i have chosen derives form the basic idé that the site is going to look professional, slick and pleasing. This without taking the focus fropm the content
 ### Fonts
+I have chosen the fonts Comorant SC because it looks slick and professional. It gives a sens of clearaty and is easily read. Together with the secound font i´ve chosen it works perfect they complament eachother really well. The second font is Lora which has a small roundness to the look and isn´t as sharp as Comorant SC and this is a good relationship between them
 
 ### Color
+/*explain the colors*/ 
 
 ## Wireframes
 
