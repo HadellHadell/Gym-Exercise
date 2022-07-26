@@ -13,7 +13,7 @@ The purpose of the project is to build an easy to use static Website for people 
 * As a returning user i want to easily find and navigate to the contact information
 * As a retuning user i want to find links to social media
 
-### Goals frequent user
+### Goals frequent user:
 * As a frequent user i want to see if there is news or changes at the gym
 * As a frequent user i want to see if there is updates to the gallery page
  
@@ -37,7 +37,7 @@ A page with the gyms all contact information which enables users to get in conta
 The footer sits at the bottom of all the websites pages and display links and font awesome symbols to social media platforms where the gym is active
  
 ### Header:
-The header contains the logo of the gym "Gym Exercise and the navigation links mentioned earlier. The logo has the function that when you click it you automatically gets directed to the homepage
+The header contains the logo of the gym "Gym Exercise" and the navigation links mentioned earlier. The logo has the function that when you click it you automatically gets directed to the homepage
  
 ## future features:
  
@@ -49,10 +49,10 @@ I would also in the future implement a member page where members log in via the 
  
 ## Typography and color scheme
 The fonts and color scheme I have chosen derives from the basic idé that the site is going to look professional, slick and pleasing. This without taking the focus from the content
-### Fonts
+### Fonts:
 I have chosen the fonts Cormorant SC because it looks slick and professional. It gives a sense of clarity and is easily read. Together with the second font i´ve chosen it works perfect they compliment each other really well. The second font is Lora which has a small roundness to the look and isn't as sharp as Cormorant SC and this is a good relationship between them
  
-### Color
+### Color:
 /*explain the colors*/
  
 ## Wireframes
