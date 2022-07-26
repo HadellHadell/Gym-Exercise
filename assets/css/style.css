@@ -2,4 +2,12 @@
 
 nav {
     color: red;
+  
+}
+
+li {
+    float: right;
+    letter-spacing: 3px;
+    list-style: none;
+    margin-left: 5px;
 }
