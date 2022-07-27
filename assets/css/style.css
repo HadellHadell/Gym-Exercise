@@ -6,15 +6,31 @@
     border: none;
 }
 
-#menu {
-    color: red;
-    font-size: 110%;
-    float: right;
-  
+body {
+    font-family: Cormorant SC, sans-serif;
+    font-weight: 400;
+    color: 3B4242;
 }
 
-#menu li {
-    letter-spacing: 3px;
-    list-style-type: none;
-    margin-right: 30px;
+h1, h2 {
+    font-family: Lora, sans-serif;
+    font-weight: 500;
+    color: 636E6E;
 }
+
+/* header and logo*/
+
+#logo {
+    float: left;
+    font-size: 300%;
+    
+}
+
+/*menu*/
+
+#menu {
+    float: right;
+    letter-spacing: 2px;
+    text-decoration: none;
+}
+
