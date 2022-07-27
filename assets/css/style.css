@@ -9,13 +9,13 @@
 body {
     font-family: Cormorant SC, sans-serif;
     font-weight: 400;
-    color: 3B4242;
+    color: #3B4242;
 }
 
 h1, h2 {
     font-family: Lora, sans-serif;
     font-weight: 500;
-    color: 636E6E;
+    color: #636E6E;
 }
 
 /* header and logo*/
@@ -26,15 +26,36 @@ h1, h2 {
     text-transform: uppercase;
 }
 
+#logo a {
+    text-decoration: none;
+    color: inherit;
+}
 /*menu*/
 
 #menu {
     letter-spacing: 2px;
-    font-size: 110%;
+    font-size: 120%;
 }
 
 #menu li {
     float: right;
     list-style-type: none;
     margin-right: 15px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu, #logo {
+    line-height: 64px;
+}
+#menu a:hover {
+    border-bottom: 1px solid;    
+
+}
+
+.active {
+    border-bottom: 2px solid;
 }
