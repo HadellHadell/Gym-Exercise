@@ -1,13 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+SC&family=Lora:wght@500&display=swap');
 
-nav {
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+#menu {
     color: red;
+    font-size: 110%;
+    float: right;
   
 }
 
-li {
-    float: right;
+#menu li {
     letter-spacing: 3px;
-    list-style: none;
-    margin-left: 5px;
+    list-style-type: none;
+    margin-right: 30px;
 }
