@@ -64,8 +64,13 @@ h1, h2 {
 
 /*div and hr*/
 
-hr {
+div hr {
     border-bottom: 1px #3B4242 solid;
     width: 100%;
+}
 
+#hero-img {
+    width: 100%;
+    height: 700px;
+    background: url(../images/background_home_page.jfif);
 }
