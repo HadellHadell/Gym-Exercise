@@ -12,12 +12,16 @@ body {
     color: #3B4242;
 }
 
+body {
+    background: url(../images/pexels-lukas-669584.jpg) no-repeat center;
+}
+
 
 
 h1, h2 {
     font-family: Lora, sans-serif;
     font-weight: 500;
-    color: #636E6E;
+    color: #ACC4C4;
 }
 
 /* header and logo*/
@@ -47,7 +51,7 @@ h1, h2 {
 
 #menu a {
     text-decoration: none;
-    color: inherit;
+    color: #ACC4C4;
 }
 
 #menu, #logo {
@@ -69,8 +73,7 @@ div hr {
     width: 100%;
 }
 
-#hero-img {
-    width: 100%;
-    height: 600px;
-    background: url(../images/hero-img-final.jpg) no-repeat left;
+.hero-img {
+   background-image: url(../images/hero-image.jpg);
+   background-size: cover;
 }
