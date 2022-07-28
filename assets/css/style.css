@@ -31,7 +31,7 @@ h1, h2 {
     font-size: 220%;
     text-transform: uppercase;
     height: 50px;
-
+    margin-left: 30px;
 }
 
 #logo a {
@@ -87,8 +87,33 @@ div hr {
 
 /*intro section*/
 
-#intro {
+#left-content {
     height: 200px;
     padding-top: 20px;
-    padding-left: 400px;
+    float: left;
+}
+
+#left-content {
+    margin-left: 30px;
+}
+
+#right-content {
+    height: 200px;
+    padding-top: 20px;
+    float: right;
+}
+
+#right-content {
+    margin-right: 30px;
+}
+
+/*footer*/
+
+#bottom-content {
+    position: fixed;
+    bottom: 0;
+    display: inline;
+    text-align: center;
+    margin-left: 400px;
+    height: 80px;
 }
