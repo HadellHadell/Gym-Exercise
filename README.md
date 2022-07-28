@@ -80,3 +80,7 @@ I have chosen the fonts Cormorant SC because it looks slick and professional. It
 2. Via github pages
  
 ## Credits
+
+Photo by  Anastasia  Shuraeva: https://www.pexels.com/photo/couple-standing-behind-a-barbell-4944952/
+
+Photo by Jonathan Borba: https://www.pexels.com/photo/woman-kneeling-with-barbel-on-shoulders-3076514/

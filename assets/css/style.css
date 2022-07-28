@@ -71,6 +71,6 @@ div hr {
 
 #hero-img {
     width: 100%;
-    height: 700px;
-    background: url(../images/background_home_page.jfif);
+    height: 600px;
+    background: url(../images/hero-img-final.jpg) no-repeat left;
 }
