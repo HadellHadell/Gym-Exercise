@@ -89,26 +89,52 @@ h1 {
 
 
 #left-content {
-    height: 200px;
+    height: 00px;
     padding-top: 20px;
     float: left;
 }
 
+#left-content h2 {
+    padding-bottom: 40px;
+}
+
 #left-content {
     text-align: center;
-    width: 50%;
-    
+    width: 40%; 
+    padding-left: 60px;  
+}
+
+#left-content {
+    color: #3B4242;
+    font-size: x-large;
 }
 
 #right-content {
-    height: 200px;
-    padding-top: 20px;
+    height: 600px;
+    padding-top: 150px;
     float: right;
+    color: #3B4242;
 }
 
 #right-content {
     text-align: center;
     width: 50%;
+}
+
+#right-content h2 {
+    padding-bottom: 40px;
+}
+
+#right-content {
+    color: #3B4242;
+    font-size: x-large;
+}
+
+/* Intro text*/
+
+.intro {
+    padding: 20px;
+    
 }
 
 /*Quotes*/
