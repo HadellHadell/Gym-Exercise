@@ -27,7 +27,8 @@ h1 {
     font-size: 220%;
     text-transform: uppercase;
     height: 50px;
-    margin-left: 30px;
+    margin-left: 20px;
+    
 }
 
 #logo a {
@@ -41,6 +42,10 @@ h1 {
 #menu {
     letter-spacing: 2px;
     font-size: 120%;
+    width: 60%;
+    position: relative;
+
+
 }
 
 #menu li {
@@ -90,7 +95,6 @@ h1 {
 }
 
 #left-content {
-
     text-align: center;
     width: 50%;
     
@@ -103,10 +107,8 @@ h1 {
 }
 
 #right-content {
-
     text-align: center;
     width: 50%;
-    
 }
 
 /*footer*/
@@ -140,3 +142,6 @@ footer {
 .media-styling a:hover {
     border-bottom: #2b3b3b 1px solid;
 }
+
+/* breaking point - responsive elemets smaller devieses*/
+
