@@ -22,6 +22,10 @@ h1 {
 
 /* header and logo*/
 
+#header-color {
+    background-color: #ACC4C4;
+}
+
 #logo {
     float: left;
     font-size: 220%;
@@ -95,7 +99,7 @@ h1 {
 }
 
 #left-content h2 {
-    padding-bottom: 40px;
+    padding-bottom: 20px;
 }
 
 #left-content {
@@ -122,12 +126,16 @@ h1 {
 }
 
 #right-content h2 {
-    padding-bottom: 40px;
+    padding-bottom: 20px;
 }
 
 #right-content {
     color: #3B4242;
     font-size: x-large;
+}
+
+#r-c-color {
+    background-color: #ACC4C4;
 }
 
 /* Intro text*/
@@ -143,6 +151,17 @@ h1 {
     padding: 20px;
 }
 
+/*horisontal rule*/
+
+hr {
+    border-bottom: 1px solid  #3B4242;
+    
+}
+
+.hr {
+    padding: 20px;
+}
+
 /*footer*/
 
 footer {
@@ -151,7 +170,7 @@ footer {
             bottom: 0;
             width: 100%;
             /* Height of the footer*/ 
-            height: 45px;
+            height: 25px;
             background: #ACC4C4;
 }
 
