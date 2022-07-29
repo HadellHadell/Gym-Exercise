@@ -10,12 +10,8 @@ body {
     font-family: Cormorant SC, sans-serif;
     font-weight: 400;
     color: #3B4242;
+   
 }
-
-body {
-    background: url(../images/pexels-lukas-669584.jpg) no-repeat center;
-}
-
 
 
 h1, h2 {
@@ -59,7 +55,7 @@ h1, h2 {
 }
 
 #menu, #logo {
-    line-height: 64px;
+    line-height: 80px;
 }
 #menu a:hover {
     border-bottom: 1px solid;    
@@ -80,12 +76,16 @@ div hr {
 .hero-img {
     background-color: #3B4242;
    background-image: url(../images/hero-image.jpg);
+   height: 400px;
+   background-repeat: ;
+   width: 100%;
    background-size: cover;
-   padding-top: 30px;
-   padding-bottom: 50px;
+
+   
 }
 
 /*intro section*/
+
 
 #left-content {
     height: 200px;
