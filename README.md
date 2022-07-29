@@ -84,3 +84,15 @@ I have chosen the fonts Cormorant SC because it looks slick and professional. It
 Photo by Jonathan Borba: https://www.pexels.com/photo/woman-kneeling-with-barbel-on-shoulders-3076514/
 
 https://www.geeksforgeeks.org/how-to-create-footer-to-stay-at-the-bottom-of-a-web-page/
+
+Photo by Ketut Subiyanto: https://www.pexels.com/photo/man-in-gray-tank-top-and-blue-shorts-doing-push-up-4720309/
+
+Photo by cottonbro: https://www.pexels.com/photo/woman-practicing-plyometrics-7675414/
+
+Photo by Andres  Ayrton: https://www.pexels.com/photo/obese-woman-lifting-dumbbells-in-gym-6551426/
+
+Photo by ShotPot: https://www.pexels.com/photo/photo-of-man-in-red-shirt-4047039/
+
+Photo by Cliff  Booth: https://www.pexels.com/photo/woman-doing-boxing-4058375/
+
+Photo by A Koolshooter: https://www.pexels.com/photo/a-couple-lying-flat-of-yoga-mats-next-to-each-other-6974984/
