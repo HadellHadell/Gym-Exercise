@@ -14,10 +14,10 @@ body {
 }
 
 
-h1, h2 {
+h1 {
     font-family: Lora, sans-serif;
     font-weight: 500;
-    color: #ACC4C4;
+    color: #5b6969;
 }
 
 /* header and logo*/
@@ -51,7 +51,7 @@ h1, h2 {
 
 #menu a {
     text-decoration: none;
-    color: #ACC4C4;
+    color: #5b6969;
 }
 
 #menu, #logo {
@@ -107,11 +107,32 @@ h1, h2 {
 
 /*footer*/
 
-#bottom-content {
-    position: absolute;
-    bottom: 0;
-    display: inline;
+footer {
+    position: fixed;
+            padding: 10px 10px 0 10px;
+            bottom: 0;
+            width: 100%;
+            /* Height of the footer*/ 
+            height: 45px;
+            background: #ACC4C4;
+}
+
+.social-media {
     text-align: center;
-    margin-left: 225px;
-    height: 80px;
+}
+
+.social-media li {
+    display: inline;
+    padding-right: 30px;
+    }
+
+.media-styling a {
+    text-decoration: none;
+    color: #121c1c;
+    text-transform: uppercase;
+    
+}
+
+.media-styling a:hover {
+    border-bottom: #2b3b3b 1px solid;
 }

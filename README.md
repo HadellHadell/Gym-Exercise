@@ -81,8 +81,6 @@ I have chosen the fonts Cormorant SC because it looks slick and professional. It
  
 ## Credits
 
-Photo by  Anastasia  Shuraeva: https://www.pexels.com/photo/couple-standing-behind-a-barbell-4944952/
-
 Photo by Jonathan Borba: https://www.pexels.com/photo/woman-kneeling-with-barbel-on-shoulders-3076514/
 
-Photo by Lukas: https://www.pexels.com/photo/barbells-on-gray-surface-669584/
+https://www.geeksforgeeks.org/how-to-create-footer-to-stay-at-the-bottom-of-a-web-page/
