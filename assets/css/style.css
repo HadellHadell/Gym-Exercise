@@ -201,7 +201,20 @@ footer {
 
 }
 
-video {
-    max-height: 00px;
+#gallery-left > img {
+    width: 100%;
+}
+
+#barbell {
+    max-height: 600px;
     width: 50%;
+    position: absolute;
+    float: left;
+}
+
+#food {
+    max-height: 600px;
+    width: 50%;
+    position: relative;
+    float: right;
 }

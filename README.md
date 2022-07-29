@@ -100,3 +100,9 @@ Photo by Mikhail Nilov: https://www.pexels.com/photo/elderly-man-doing-yoga-exer
 Video by Mikhail Nilov: https://www.pexels.com/video/man-in-wheelchair-lifting-weights-with-trainer-7699778/
 
 Video by Andres  Ayrton: https://www.pexels.com/video/a-personal-trainer-talking-to-his-client-about-healthy-food-and-junk-food-6547780/
+
+Photo by Gleb Krasnoborov: https://www.pexels.com/photo/man-in-black-tank-top-lifting-barbell-at-the-gym-2628215/
+
+Photo by Pixabay: https://www.pexels.com/photo/bodybuilding-close-up-dumbbells-equipment-260352/
+
+Photo by Ivan Samkov: https://www.pexels.com/photo/man-exercising-with-dumbbells-4164769/
