@@ -90,7 +90,9 @@ h1 {
 }
 
 #left-content {
-    margin-left: 250px;
+
+    text-align: center;
+    width: 50%;
     
 }
 
@@ -101,7 +103,9 @@ h1 {
 }
 
 #right-content {
-    margin-right: 250px;
+
+    text-align: center;
+    width: 50%;
     
 }
 
