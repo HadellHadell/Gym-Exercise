@@ -89,7 +89,7 @@ h1 {
 
 
 #left-content {
-    height: 00px;
+    height: 600px;
     padding-top: 20px;
     float: left;
 }
@@ -190,5 +190,26 @@ footer {
     border-bottom: #2b3b3b 1px solid;
 }
 
-/* breaking point - responsive elemets smaller devieses*/
+/* Gallery page */
+
+
+
+#gallery-left {
+    float: left;
+    height: 800px;
+    width: 58%;
+    padding-left: 30px;
+    padding-top: 60px;
+    background-color: aquamarine;
+}
+
+#gallery-right {
+    float: right;
+    height: 800px;
+    width: 37%;
+    padding-left: 30px;
+    padding-top: 60px;
+    text-align: center;
+    background-color: aqua;
+}
 
