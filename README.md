@@ -95,4 +95,8 @@ Photo by ShotPot: https://www.pexels.com/photo/photo-of-man-in-red-shirt-4047039
 
 Photo by Cliff  Booth: https://www.pexels.com/photo/woman-doing-boxing-4058375/
 
-Photo by A Koolshooter: https://www.pexels.com/photo/a-couple-lying-flat-of-yoga-mats-next-to-each-other-6974984/
+Photo by Mikhail Nilov: https://www.pexels.com/photo/elderly-man-doing-yoga-exercise-7500641/
+
+Video by Mikhail Nilov: https://www.pexels.com/video/man-in-wheelchair-lifting-weights-with-trainer-7699778/
+
+Video by Andres  Ayrton: https://www.pexels.com/video/a-personal-trainer-talking-to-his-client-about-healthy-food-and-junk-food-6547780/

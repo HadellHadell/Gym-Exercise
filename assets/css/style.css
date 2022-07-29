@@ -192,24 +192,16 @@ footer {
 
 /* Gallery page */
 
-
-
 #gallery-left {
-    float: left;
-    height: 800px;
-    width: 58%;
-    padding-left: 30px;
-    padding-top: 60px;
-    background-color: aquamarine;
+    clear: both;
+    line-height: 1px;
+    column-count: 4;
+    column-gap: 0px;
+    width: 100%;
+
 }
 
-#gallery-right {
-    float: right;
-    height: 800px;
-    width: 37%;
-    padding-left: 30px;
-    padding-top: 60px;
-    text-align: center;
-    background-color: aqua;
+video {
+    max-height: 00px;
+    width: 50%;
 }
-
