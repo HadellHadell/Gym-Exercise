@@ -66,20 +66,16 @@ h1, h2 {
     border-bottom: 2px solid;
 }
 
-/*div and hr*/
-
-div hr {
-    border-bottom: 1px #3B4242 solid;
-    width: 100%;
-}
+/*hero image */
 
 .hero-img {
     background-color: #3B4242;
    background-image: url(../images/hero-image.jpg);
-   height: 400px;
-   background-repeat: ;
+   height: 500px;
+   background-repeat: no-repeat;
    width: 100%;
    background-size: cover;
+   overflow: hidden;
 
    
 }
@@ -94,7 +90,8 @@ div hr {
 }
 
 #left-content {
-    margin-left: 30px;
+    margin-left: 250px;
+    
 }
 
 #right-content {
@@ -104,16 +101,17 @@ div hr {
 }
 
 #right-content {
-    margin-right: 30px;
+    margin-right: 250px;
+    
 }
 
 /*footer*/
 
 #bottom-content {
-    position: fixed;
+    position: absolute;
     bottom: 0;
     display: inline;
     text-align: center;
-    margin-left: 400px;
+    margin-left: 225px;
     height: 80px;
 }
