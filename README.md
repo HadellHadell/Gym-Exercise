@@ -70,6 +70,8 @@ I have chosen the fonts Cormorant SC because it looks slick and professional. It
 ## Testing
  
 1. code validation
+w3c html: minor erros and wrnings about sections missing a heading which should not have headings so sulotion chang section to div
+w3c css: ran trhought the validator witrhout notice.
 2. test cases (user story based with screenshot)
 3. fixed bugs
 4. supported screens and browsers
