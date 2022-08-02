@@ -218,3 +218,29 @@ footer {
     position: relative;
     float: right;
 }
+
+/* Contact page */
+
+#contact {
+   height: 150px;
+   padding-top: 80px;
+   width: 100%;
+}
+
+#c1 {
+    background-color: #ACC4C4;
+}
+
+#c1 h2 {
+    width: 100%;
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+#c1 li {
+    list-style-type: none;
+    font-size: x-large;
+    text-align: center;
+    padding-bottom: 10px;
+}
