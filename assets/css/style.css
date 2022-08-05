@@ -244,3 +244,39 @@ footer {
     text-align: center;
     padding-bottom: 10px;
 }
+
+/* media quaries */
+
+/* Breakingpoint mobile devices */
+
+@media screen and (max-width: 500px) {
+    #menu {
+        clear: left;
+        float: left;
+        padding-left: 30px;
+        padding-bottom: 20px;
+        padding-top: 10px;
+        line-height: 25px; 
+    }
+
+    .hero-img {
+        float: left;
+        padding-bottom: 20px;
+        padding-top: 10px;
+        width: 100%;
+    }
+
+    #left-content {
+        width: 75%;
+        height: 500px;
+        padding-left: 30px;
+        padding-bottom: 25px;
+
+    }
+
+    #right-content {
+        width: 65%;
+        height: 950px;
+    }
+}
+    
