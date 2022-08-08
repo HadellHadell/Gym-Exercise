@@ -164,24 +164,21 @@
 }
 /* Contact page */
  .contact {
-     height: 150px;
-     padding-top: 80px;
+     height: 200px;
      width: 100%;
+     padding-top: 2%;
 }
  .contact-content-styling {
      background-color: #ACC4C4;
 }
  .contact-content-styling h2 {
      width: 100%;
-     padding-top: 20px;
      text-align: center;
-     padding-bottom: 5px;
 }
  .contact-content-styling li {
      list-style-type: none;
      font-size: x-large;
      text-align: center;
-     padding-bottom: 10px;
 }
 /* media quaries */
 /* Breakingpoint mobile devices */
