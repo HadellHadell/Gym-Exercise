@@ -5,17 +5,14 @@ The purpose of the project is to build an easy to use static Website for people 
  
 ## User stories
  
-### Goals first time user:
-* As a first time visitor i want to easily understand the meaning of the websites content and what it is for
-* As a firstime user i want to be able to navigate easily thourgh the websites content 
+### Visitor home page:
+As a visitor i want to find the home page with informative content and internal links to navigate the website and social media links
 
-### Goals returning user:
-* As a returning user i want to easily find and navigate to the contact information
-* As a retuning user i want to find links to social media
+### Visitor gallery page
+As a visitor i want to be able to see pictures and videos from the gym 
 
-### Goals frequent user:
-* As a frequent user i want to see if there is news or changes at the gym
-* As a frequent user i want to see if there is updates to the gallery page
+### Visitor Contact page
+As a visitor i want to be able to find contact information and get in contact with the gym
  
 ## Features
  
