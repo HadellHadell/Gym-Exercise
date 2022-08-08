@@ -15,37 +15,37 @@
      color: #5b6969;
 }
 /* header and logo*/
- #logo {
+ .logo {
      float: left;
      font-size: 220%;
      text-transform: uppercase;
      height: 50px;
      margin-left: 20px;
 }
- #logo a {
+ .logo a {
      text-decoration: none;
      color: inherit;
 }
 /*menu*/
- #menu {
+ .menu {
      letter-spacing: 2px;
      font-size: 120%;
      width: 60%;
      position: relative;
 }
- #menu li {
+ .menu li {
      float: right;
      list-style-type: none;
      margin-right: 15px;
 }
- #menu a {
+ .menu a {
      text-decoration: none;
      color: #5b6969;
 }
- #menu, #logo {
+ .menu, .logo {
      line-height: 80px;
 }
- #menu a:hover {
+ .menu a:hover {
      border-bottom: 1px solid;
 }
  .active {
@@ -62,41 +62,41 @@
      overflow: hidden;
 }
 /*intro section*/
- #left-content {
+ .left-intro-content {
      height: 600px;
      padding-top: 20px;
      float: left;
 }
- #left-content h2 {
+ .left-intro-content h2 {
      padding-bottom: 20px;
 }
- #left-content {
+ .left-intro-content {
      text-align: center;
      width: 40%;
      padding-left: 60px;
 }
- #left-content {
+ .left-intro-content {
      color: #3B4242;
      font-size: x-large;
 }
- #right-content {
+ .right-quotes-content {
      height: 600px;
      padding-top: 150px;
      float: right;
      color: #3B4242;
 }
- #right-content {
+ .right-quotes-content {
      text-align: center;
      width: 50%;
 }
- #right-content h2 {
+ .right-quotes-content h2 {
      padding-bottom: 20px;
 }
- #right-content {
+ .right-quotes-content {
      color: #3B4242;
      font-size: x-large;
 }
- #r-c-color {
+ #right-color-quotes {
      background-color: #ACC4C4;
 }
 /* Intro text*/
@@ -140,44 +140,44 @@
      border-bottom: #2b3b3b 1px solid;
 }
 /* Gallery page */
- #gallery-left {
+ .gallery-left-content {
      clear: both;
      line-height: 1px;
      column-count: 4;
      column-gap: 0px;
      width: 100%;
 }
- #gallery-left > img {
+ .gallery-left-content > img {
      width: 100%;
 }
- #barbell {
+ .barbell-video {
      max-height: 600px;
      width: 50%;
      position: absolute;
      float: left;
 }
- #food {
+ .food-video {
      max-height: 600px;
      width: 50%;
      position: relative;
      float: right;
 }
 /* Contact page */
- #contact {
+ .contact {
      height: 150px;
      padding-top: 80px;
      width: 100%;
 }
- #c1 {
+ .contact-content-styling {
      background-color: #ACC4C4;
 }
- #c1 h2 {
+ .contact-content-styling h2 {
      width: 100%;
      padding-top: 20px;
      text-align: center;
      padding-bottom: 5px;
 }
- #c1 li {
+ .contact-content-styling li {
      list-style-type: none;
      font-size: x-large;
      text-align: center;
