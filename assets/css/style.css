@@ -1,282 +1,214 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+SC&family=Lora:wght@500&display=swap');
-
-* {
-    margin: 0;
-    padding: 0;
-    border: none;
+ * {
+     margin: 0;
+     padding: 0;
+     border: none;
 }
-
-body {
-    font-family: Cormorant SC, sans-serif;
-    font-weight: 400;
-    color: #3B4242;
-   
+ body {
+     font-family: Cormorant SC, sans-serif;
+     font-weight: 400;
+     color: #3B4242;
 }
-
-
-h1 {
-    font-family: Lora, sans-serif;
-    font-weight: 500;
-    color: #5b6969;
+ h1 {
+     font-family: Lora, sans-serif;
+     font-weight: 500;
+     color: #5b6969;
 }
-
 /* header and logo*/
-
-#logo {
-    float: left;
-    font-size: 220%;
-    text-transform: uppercase;
-    height: 50px;
-    margin-left: 20px;
-    
+ #logo {
+     float: left;
+     font-size: 220%;
+     text-transform: uppercase;
+     height: 50px;
+     margin-left: 20px;
 }
-
-#logo a {
-    text-decoration: none;
-    color: inherit;
-
-
+ #logo a {
+     text-decoration: none;
+     color: inherit;
 }
 /*menu*/
-
-#menu {
-    letter-spacing: 2px;
-    font-size: 120%;
-    width: 60%;
-    position: relative;
-
-
+ #menu {
+     letter-spacing: 2px;
+     font-size: 120%;
+     width: 60%;
+     position: relative;
 }
-
-#menu li {
-    float: right;
-    list-style-type: none;
-    margin-right: 15px;
+ #menu li {
+     float: right;
+     list-style-type: none;
+     margin-right: 15px;
 }
-
-#menu a {
-    text-decoration: none;
-    color: #5b6969;
+ #menu a {
+     text-decoration: none;
+     color: #5b6969;
 }
-
-#menu, #logo {
-    line-height: 80px;
+ #menu, #logo {
+     line-height: 80px;
 }
-#menu a:hover {
-    border-bottom: 1px solid;    
-
+ #menu a:hover {
+     border-bottom: 1px solid;
 }
-
-.active {
-    border-bottom: 2px solid;
+ .active {
+     border-bottom: 2px solid;
 }
-
 /*hero image */
-
-.hero-img {
-    background-color: #3B4242;
-   background-image: url(../images/hero-image.jpg);
-   height: 500px;
-   background-repeat: no-repeat;
-   width: 100%;
-   background-size: cover;
-   overflow: hidden;
-
-   
+ .hero-img {
+     background-color: #3B4242;
+     background-image: url(../images/hero-image.jpg);
+     height: 500px;
+     background-repeat: no-repeat;
+     width: 100%;
+     background-size: cover;
+     overflow: hidden;
 }
-
 /*intro section*/
-
-
-#left-content {
-    height: 600px;
-    padding-top: 20px;
-    float: left;
+ #left-content {
+     height: 600px;
+     padding-top: 20px;
+     float: left;
 }
-
-#left-content h2 {
-    padding-bottom: 20px;
+ #left-content h2 {
+     padding-bottom: 20px;
 }
-
-#left-content {
-    text-align: center;
-    width: 40%; 
-    padding-left: 60px;  
+ #left-content {
+     text-align: center;
+     width: 40%;
+     padding-left: 60px;
 }
-
-#left-content {
-    color: #3B4242;
-    font-size: x-large;
+ #left-content {
+     color: #3B4242;
+     font-size: x-large;
 }
-
-#right-content {
-    height: 600px;
-    padding-top: 150px;
-    float: right;
-    color: #3B4242;
+ #right-content {
+     height: 600px;
+     padding-top: 150px;
+     float: right;
+     color: #3B4242;
 }
-
-#right-content {
-    text-align: center;
-    width: 50%;
+ #right-content {
+     text-align: center;
+     width: 50%;
 }
-
-#right-content h2 {
-    padding-bottom: 20px;
+ #right-content h2 {
+     padding-bottom: 20px;
 }
-
-#right-content {
-    color: #3B4242;
-    font-size: x-large;
+ #right-content {
+     color: #3B4242;
+     font-size: x-large;
 }
-
-#r-c-color {
-    background-color: #ACC4C4;
+ #r-c-color {
+     background-color: #ACC4C4;
 }
-
 /* Intro text*/
-
-.intro {
-    padding: 20px;
-    
+ .intro {
+     padding: 20px;
 }
-
 /*Quotes*/
-
-.quotes {
-    padding: 20px;
+ .quotes {
+     padding: 20px;
 }
-
 /*horisontal rule*/
-
-hr {
-    border-bottom: 1px solid  #3B4242;
-    
+ hr {
+     border-bottom: 1px solid #3B4242;
 }
-
-.hr {
-    padding: 20px;
+ .hr {
+     padding: 20px;
 }
-
 /*footer*/
-
-footer {
-    position: fixed;
-            padding: 10px 10px 0 10px;
-            bottom: 0;
-            width: 100%;
-            /* Height of the footer*/ 
-            height: 25px;
-            background: #ACC4C4;
+ footer {
+     position: fixed;
+     padding: 10px 10px 0 10px;
+     bottom: 0;
+     width: 100%;
+    /* Height of the footer*/
+     height: 25px;
+     background: #ACC4C4;
 }
-
-.social-media {
-    text-align: center;
+ .social-media {
+     text-align: center;
 }
-
-.social-media li {
-    display: inline;
-    padding-right: 30px;
-    }
-
-.media-styling a {
-    text-decoration: none;
-    color: #121c1c;
-    text-transform: uppercase;
-    
+ .social-media li {
+     display: inline;
+     padding-right: 30px;
 }
-
-.media-styling a:hover {
-    border-bottom: #2b3b3b 1px solid;
+ .media-styling a {
+     text-decoration: none;
+     color: #121c1c;
+     text-transform: uppercase;
 }
-
+ .media-styling a:hover {
+     border-bottom: #2b3b3b 1px solid;
+}
 /* Gallery page */
-
-#gallery-left {
-    clear: both;
-    line-height: 1px;
-    column-count: 4;
-    column-gap: 0px;
-    width: 100%;
-
+ #gallery-left {
+     clear: both;
+     line-height: 1px;
+     column-count: 4;
+     column-gap: 0px;
+     width: 100%;
 }
-
-#gallery-left > img {
-    width: 100%;
+ #gallery-left > img {
+     width: 100%;
 }
-
-#barbell {
-    max-height: 600px;
-    width: 50%;
-    position: absolute;
-    float: left;
+ #barbell {
+     max-height: 600px;
+     width: 50%;
+     position: absolute;
+     float: left;
 }
-
-#food {
-    max-height: 600px;
-    width: 50%;
-    position: relative;
-    float: right;
+ #food {
+     max-height: 600px;
+     width: 50%;
+     position: relative;
+     float: right;
 }
-
 /* Contact page */
-
-#contact {
-   height: 150px;
-   padding-top: 80px;
-   width: 100%;
+ #contact {
+     height: 150px;
+     padding-top: 80px;
+     width: 100%;
 }
-
-#c1 {
-    background-color: #ACC4C4;
+ #c1 {
+     background-color: #ACC4C4;
 }
-
-#c1 h2 {
-    width: 100%;
-    padding-top: 20px;
-    text-align: center;
-    padding-bottom: 5px;
+ #c1 h2 {
+     width: 100%;
+     padding-top: 20px;
+     text-align: center;
+     padding-bottom: 5px;
 }
-
-#c1 li {
-    list-style-type: none;
-    font-size: x-large;
-    text-align: center;
-    padding-bottom: 10px;
+ #c1 li {
+     list-style-type: none;
+     font-size: x-large;
+     text-align: center;
+     padding-bottom: 10px;
 }
-
 /* media quaries */
-
 /* Breakingpoint mobile devices */
-
-@media screen and (max-width: 500px) {
-    #menu {
-        clear: left;
-        float: left;
-        padding-left: 30px;
-        padding-bottom: 20px;
-        padding-top: 10px;
-        line-height: 25px; 
+ @media screen and (max-width: 500px) {
+     #menu {
+         clear: left;
+         float: left;
+         padding-left: 30px;
+         padding-bottom: 20px;
+         padding-top: 10px;
+         line-height: 25px;
     }
-
-    .hero-img {
-        float: left;
-        padding-bottom: 20px;
-        padding-top: 10px;
-        width: 100%;
+     .hero-img {
+         float: left;
+         padding-bottom: 20px;
+         padding-top: 10px;
+         width: 100%;
     }
-
-    #left-content {
-        width: 75%;
-        height: 500px;
-        padding-left: 30px;
-        padding-bottom: 25px;
-
+     #left-content {
+         width: 75%;
+         height: 500px;
+         padding-left: 30px;
+         padding-bottom: 25px;
     }
-
-    #right-content {
-        width: 65%;
-        height: 950px;
+     #right-content {
+         width: 65%;
+         height: 950px;
     }
 }
     
