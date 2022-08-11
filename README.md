@@ -61,13 +61,17 @@ I have chosen the fonts Cormorant SC because it looks slick and professional. It
 * HTML5
 * CSS3
 * Markdown
+* Gitpod
+* Github
+* Balsamiq Wireframes
+
  
  
  
 ## Testing
  
 1. code validation
-w3c html: minor erros and wrnings about sections missing a heading which should not have headings so sulotion chang section to div
+w3c html: minor erros and warnings about sections missing a heading which should not have headings so sulotion chang section to div
 w3c css: ran trhought the validator witrhout notice.
 2. test cases (user story based with screenshot)
 3. fixed bugs
@@ -82,7 +86,7 @@ w3c css: ran trhought the validator witrhout notice.
 
 Photo by Jonathan Borba: https://www.pexels.com/photo/woman-kneeling-with-barbel-on-shoulders-3076514/
 
-https://www.geeksforgeeks.org/how-to-create-footer-to-stay-at-the-bottom-of-a-web-page/
+Extra help with footer layout: https://www.geeksforgeeks.org/how-to-create-footer-to-stay-at-the-bottom-of-a-web-page/
 
 Photo by Ketut Subiyanto: https://www.pexels.com/photo/man-in-gray-tank-top-and-blue-shorts-doing-push-up-4720309/
 
