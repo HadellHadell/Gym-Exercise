@@ -64,10 +64,6 @@ I have chosen the fonts Cormorant SC because it looks slick and professional. It
 * Gitpod
 * Github
 * Balsamiq Wireframes
-
- 
- 
- 
 ## Testing
  
 1. code validation
