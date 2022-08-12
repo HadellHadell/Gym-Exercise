@@ -16,28 +16,27 @@ As a visitor i want to be able to find contact information and get in contact wi
  
 ## Features
  
-### Navigation:
-A navigation element where the user can easily navigate the site's content without using "forward" and "back" buttons. The nav. element works by navigation links to the different pages
+### Header and navigation:
+The header contains the logo of the gym "Gym Exercise" and navigation links. The logo has the function that when you click it you automatically gets directed to the homepage. In the header a navigation element is also nested which enables the visitor to navigate the website without using "forward" and "back" buttons. The ``` nav ``` element works by navigation links to the different pages
  
+ ![alt text](../Gym-Exercise/assets/images/Homepage-firsthalf.png)
+
 ### Homepage:
 A page with the main content and introductory text which show the user what he or she will find on the site and what the use of the site is for. Display main content and is the center page of the websites information and structure
  
 ### Gallery page:
-A page which holds pictures and video elements from the gym which will work as a tool to give the user a perception of what the gym looks like and give a short feeling on the social atmosphere.
-* The gallery page also contains image elements and video elements to give the user a good insight in the main content
- 
+This page conatins pictures and videos from the gym which works as a tool to give the visitor a perception of what the gym looks like and give a short feeling on the social atmosphere.
+#### Pictures:
+![alt text](../Gym-Exercise/assets/images/Gallery-pictures.png)
+#### Videos:
+![alt text](../Gym-Exercise/assets/images/Gallery-video.png) 
 ### Contact page:
-A page with the gyms all contact information which enables users to get in contact easily with the gym and find it on the map
-* The contact page is also displaying a map from google maps to increase the useability. It displays the gyms location on the map as a complement to the written address
- 
+This page contain the gyms all contact information which enables users to get in contact easily with the gym and find it on the map
+* The contact page is also containing a "message form" to enable visitors to send dircet message directly from the website.
+![alt text](../Gym-Exercise/assets/images/Contact-page.png)
 ### Footer
-The footer sits at the bottom of all the websites pages and display links and font awesome symbols to social media platforms where the gym is active
- 
-### Header:
-The header contains the logo of the gym "Gym Exercise" and the navigation links mentioned earlier. The logo has the function that when you click it you automatically gets directed to the homepage
- 
+The footer sits at the bottom of all the websites pages and display links and font awesome symbols to social media platforms where the gym is active 
 ## future features:
- 
 ### Schedule page for training sessions:
 In the future I would like to implement a schedule feature where the user can observe a schedule with training sessions led by the gym staff. The schedule should display which time the sessions are taking place and where in the gym (or perhaps if it is an outdoor session).
  
@@ -48,12 +47,15 @@ I would also in the future implement a member page where members log in via the 
 The fonts and color scheme I have chosen derives from the basic idé that the site is going to look professional, slick and pleasing. This without taking the focus from the content
 ### Fonts:
 I have chosen the fonts Cormorant SC because it looks slick and professional. It gives a sense of clarity and is easily read. Together with the second font i´ve chosen it works perfect they compliment each other really well. The second font is Lora which has a small roundness to the look and isn't as sharp as Cormorant SC and this is a good relationship between them
- 
 ### Color:
-/*explain the colors*/
- 
+The colors on the website are shades of grey which works well with the fonts used. The text has a darker shade of grey to make it easier to read and the background color for the footer and the quotes section are set in grey with a slight tint of light blue for contrast.
 ## Wireframes
  
+ ![alt text](../Gym-Exercise/assets/images/Wireframe-home.png)
+
+ ![alt text](../Gym-Exercise/assets/images/Wireframe-gallery.png)
+
+ ![alt text](../Gym-Exercise/assets/images/Wireframe-contact.png)
  
 (screenshot and explanation)
  
@@ -84,14 +86,19 @@ When i deployed the project the the linking between html files and css styleshee
 When removing the ``` ../ ``` before the ``` assets/css/style.css ``` the linking was repair and functioning.
 
 ### supported screens and browsers
-
- 
+* The website have been tested and works on following browsers: Chrome, Firefox, Microsoft Edge, Safari.
+* The website have been tested on a smaller device (Oneplus Nord CE 2) and works fine.
 ## Deployment
  
 1. Via Gitpod
 2. Via github pages
  
 ## Credits
+
+### Content
+ https://www.geeksforgeeks.org/how-to-create-footer-to-stay-at-the-bottom-of-a-web-page/
+
+### Media
 
 Photo by Jonathan Borba: https://www.pexels.com/photo/woman-kneeling-with-barbel-on-shoulders-3076514/
 
