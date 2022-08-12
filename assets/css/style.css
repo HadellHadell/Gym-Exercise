@@ -207,21 +207,24 @@ input[type=text] {
 /* media quaries */
 /* Breakingpoint mobile devices */
 
-@media screen and (max-width: 1050px) and (min-width: 775px) {
+@media screen and (max-width: 1200px) {
     footer {
      padding: 0.5% 1% 0 1%;
      bottom: 0;
      width: 100%;
-     height: 20px;
+     height: 2%;
      background: #ACC4C4;
     }
     .logo {
         margin-left: 3%;
     }
     .menu {
-        clear: left;
         float: left;
-        padding-left: 6.5%;
+        margin-left: 2%;
+   }
+   .menu li {
+    margin-right: 15px;
+    float: left;
    }
     .hero-img {
         float: left;
@@ -229,93 +232,65 @@ input[type=text] {
         padding-top: 1%;
         width: 100%;
         background-size: cover;
-        height: 500px;
+        height: 400px;
    }
     .left-intro-content {
         width: 95%;
-        height: 750px;
+        height: 600%;
         padding-left: 3%;
-        padding-bottom: 80%;
+        
    }
     .right-quotes-content {
-        width: 100%;
-        height: 450px;
+        width: 90%;
+        height: 600%;
+        padding-bottom: 10%;
     }
     .contact {
         width: 100%;
-        padding-top: 50%;
+        padding-top: 10%;
+    }
+    form {
+        float: left;
+        padding-left: 43%;
+        padding-bottom: 5%;
     }
 }
- @media screen and (max-width: 775px) and (min-width: 450px) {
-    .logo {
-        margin-left: 3%;
-        padding: 1%;
-    }
-    .menu li {
-        clear: left;
-        float: left;
-        margin-left: 9%;
-        height: 70px;
-        text-align: center;
-   }
-    .hero-img {
-        float: left;
-        padding-bottom: 2%;
-        padding-top: 1%;
-        width: 100%;
-        background-size: cover;
-        height: 300px;
-   }
-    .left-intro-content {
-        width: 95%;
-        height: 750px;
-        padding-left: 3%;
-        padding-bottom: 80%;
-   }
-    .right-quotes-content {
-        width: 100%;
-        height: 450px;
-   }
-   .contact {
-    width: 100%;
-    padding-top: 50%;
-}
-}
-/*Breakingpoint smaller deivices*/
-@media screen and (max-width: 450px) and (min-width: 350px) {
-    .logo {
-        margin-left: 12%;
-        padding: 2%;
-    } 
+@media screen and (max-width: 455px) {
     .menu {
-        clear: left;
         float: left;
+        margin-left: 2%;
    }
-    .menu li {
-        float: right;
-        list-style-type: none;
-        margin-right: 5%;
-    }
-    .hero-img {
-        float: left;
-        padding-bottom: 2%;
-        padding-top: 1%;
-        width: 100%;
-        background-size: cover;
-        height: 193px;
+   .menu li {
+    margin-right: 15px;
+    clear: both;
    }
-    .left-intro-content {
-        width: 95%;
-        height: 750px;
-        padding-left: 3%;
-        padding-bottom: 80%;
-   }
-    .right-quotes-content {
-        width: 100%;
-        height: 450px;
-   }
-   .contact-content-styling {
+   .hero-img {
     width: 100%;
-   }
+    background-size: contain;
+    height: 243px;
 }
-    
+form {
+    float: left;
+    padding-left: 25%;
+    padding-bottom: 5%;
+}
+}
+@media screen and (max-width: 380px) {
+    .hero-img {
+        width: 100%;
+        background-size: contain;
+        height: 200px;
+    }
+}
+@media screen and (max-width: 320px) {
+    .hero-img {
+        width: 100%;
+        background-size: contain;
+        height: 170px;
+    }
+    form {
+        float: left;
+        padding-left: 5%;
+        padding-bottom: 5%;
+    }
+}
