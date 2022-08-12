@@ -66,12 +66,25 @@ I have chosen the fonts Cormorant SC because it looks slick and professional. It
 * Balsamiq Wireframes
 ## Testing
  
-1. code validation
-w3c html: minor erros and warnings about sections missing a heading which should not have headings so sulotion chang section to div
-w3c css: ran trhought the validator witrhout notice.
-2. test cases (user story based with screenshot)
-3. fixed bugs
-4. supported screens and browsers
+### code validation
+
+#### HTML: 
+Passed through the w3c html vlaidator without errors
+
+#### CSS: 
+Passed trhought the w3c css validator without errors
+
+### test cases (user story based with screenshot)
+
+### fixed bugs
+When i deployed the project the the linking between html files and css stylesheet were broken which resulted in an unstyled website. The root of the problem was that the linking were set to be looking in the wrong file and could not find the files i told i to find. see example below.
+```html
+<link rel="stylesheet" href="../assets/css/style.css">
+```
+When removing the ``` ../ ``` before the ``` assets/css/style.css ``` the linking was repair and functioning.
+
+### supported screens and browsers
+
  
 ## Deployment
  
