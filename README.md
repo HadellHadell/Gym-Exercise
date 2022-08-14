@@ -53,13 +53,17 @@ I have chosen the fonts Cormorant SC because it looks slick and professional. It
 The colors on the website are shades of grey which works well with the fonts used. The text has a darker shade of grey to make it easier to read and the background color for the footer and the quotes section are set in grey with a slight tint of light blue for contrast.
 ## Wireframes
  
+### Homepage
+
 <a href="https://ibb.co/MNqWX2d"><img src="https://i.ibb.co/NYwQ4VR/Wireframe-home.png" alt="Wireframe-home" border="0"></a>
+
+### Gallery
 
  <a href="https://ibb.co/gD3221d"><img src="https://i.ibb.co/cN1BB5w/Wireframe-gallery.png" alt="Wireframe-gallery" border="0"></a>
 
+ ### Contact page
+
  <a href="https://ibb.co/rsrrDWd"><img src="https://i.ibb.co/hfzz3qY/Wireframe-contact.png" alt="Wireframe-contact" border="0"></a>
- 
-(screenshot and explanation)
  
 ## Technology
 * HTML5
@@ -68,6 +72,7 @@ The colors on the website are shades of grey which works well with the fonts use
 * Gitpod
 * Github
 * Balsamiq Wireframes
+* Imgbb
 ## Testing
  
 ### code validation
@@ -90,10 +95,12 @@ When removing the ``` ../ ``` before the ``` assets/css/style.css ``` the linkin
 ### supported screens and browsers
 * The website have been tested and works on following browsers: Chrome, Firefox, Microsoft Edge, Safari.
 * The website have been tested on a smaller device (Oneplus Nord CE 2) and works fine.
-## Deployment
+* The webbsite corresponds well to smaller browser windows.
+## Deployment steps
  
 1. Via Gitpod
-2. Via github pages
+Commit all data to github by using the `git add .` command and commit. When you have committed your data and changes use the `git push` command to push the data to Github.
+2. Via github pages: Enter the repository and navigate to `settings`. On the left side find the category `pages`. Go down to the `branch section` and select `main` in the `drop-down menu`. After you have done these steps press `save button` in the branch section. A link to your deployed website should appear at the top of the page. 
  
 ## Credits
 
