@@ -74,16 +74,25 @@ The colors on the website are shades of grey which works well with the fonts use
 * Balsamiq Wireframes
 * Imgbb
 ## Testing
- 
+
 ### code validation
 
 #### HTML: 
-Passed through the w3c html vlaidator without errors
+Passed through the w3c html vlaidator without errors.
 
 #### CSS: 
-Passed trhought the w3c css validator without errors
+Passed trhought the w3c css validator without errors.
 
-### test cases (user story based with screenshot)
+#### Accesability:
+The colors and fonts have been confirmed to be accessible and easy to read by run the website through the developer tool lighthouse. 
+<a href="https://ibb.co/FwgNhM2"><img src="https://i.ibb.co/856Tmpq/Sk-rmbild-16.png" alt="developer tools preformance check" border="0"></a> 
+
+### test cases 
+* The websites navcigation elements has been tested and works on diffrent browsers and smaller devieces.
+* The website is responsive and looks good on common screen sizes: comfirmed by developer tools.
+* The form has been ckeck and works as intended. 
+* The website has been overhauled and corresponds to the user stories where the visitor can find information of the purpose of the website, pictures, videos and a page with contact information. 
+
 
 ### fixed bugs
 When i deployed the project the the linking between html files and css stylesheet were broken which resulted in an unstyled website. The root of the problem was that the linking were set to be looking in the wrong file and could not find the files i told i to find. see example below.
@@ -105,7 +114,8 @@ Commit all data to github by using the `git add .` command and commit. When you 
 ## Credits
 
 ### Content
- https://www.geeksforgeeks.org/how-to-create-footer-to-stay-at-the-bottom-of-a-web-page/
+* Parts of the code is taken from https://www.geeksforgeeks.org/
+* Parts of code is taken from the Code Institute Love Running project.
 
 ### Media
 
