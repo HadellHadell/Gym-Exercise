@@ -210,11 +210,11 @@ input[type=text] {
 
 @media screen and (max-width: 1200px) {
     footer {
-     padding: 0.5% 1% 0 1%;
-     bottom: 0;
-     width: 100%;
-     height: 2%;
-     background: #ACC4C4;
+        padding: 0.5% 1% 0 1%;
+        bottom: 0;
+        width: 100%;
+        height: 2%;
+        background: #ACC4C4;
     }
     .logo {
         margin-left: 3%;
@@ -224,8 +224,8 @@ input[type=text] {
         margin-left: 2%;
    }
    .menu li {
-    margin-right: 15px;
-    float: left;
+        margin-right: 15px;
+        float: left;
    }
     .hero-img {
         float: left;
@@ -261,19 +261,19 @@ input[type=text] {
         float: left;
         margin-left: 2%;
    }
-   .menu li {
-    margin-right: 15px;
-    clear: both;
+    .menu li {
+        margin-right: 15px;
+        clear: both;
    }
-   .hero-img {
-    width: 100%;
-    background-size: contain;
-    height: 243px;
+    .hero-img {
+        width: 100%;
+        background-size: contain;
+        height: 243px;
 }
-form {
-    float: left;
-    padding-left: 25%;
-    padding-bottom: 5%;
+    form {
+        float: left;
+        padding-left: 25%;
+        padding-bottom: 5%;
 }
 }
 @media screen and (max-width: 380px) {
