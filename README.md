@@ -29,12 +29,15 @@ A page with the main content and introductory text which show the user what he o
 ### Gallery page:
 This page conatins pictures and videos from the gym which works as a tool to give the visitor a perception of what the gym looks like and give a short feeling on the social atmosphere.
 #### Pictures:
+
 <a href="https://ibb.co/TrXTp5m"><img src="https://i.ibb.co/LvwPbfn/Gallery-pictures.png" alt="Gallery-pictures" border="0"></a>
 #### Videos:
+
 <a href="https://ibb.co/bj9tGtL"><img src="https://i.ibb.co/1YWc4cK/Gallery-video.png" alt="Gallery-video" border="0"></a>
 ### Contact page:
 This page contain the gyms all contact information which enables users to get in contact easily with the gym and find it on the map
 * The contact page is also containing a "message form" to enable visitors to send dircet message directly from the website.
+
 <a href="https://ibb.co/NjVzhzv"><img src="https://i.ibb.co/7WYFcFf/Sk-rmbild-11.png" alt="Contact-page" border="0"></a>
 ### Footer
 The footer sits at the bottom of all the websites pages and display links and font awesome symbols to social media platforms where the gym is active 
