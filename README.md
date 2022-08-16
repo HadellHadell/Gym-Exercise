@@ -18,27 +18,17 @@ As a visitor i want to be able to find contact information and get in contact wi
  
 ### Header and navigation:
 The header contains the logo of the gym "Gym Exercise" and navigation links. The logo has the function that when you click it you automatically gets directed to the homepage. In the header a navigation element is also nested which enables the visitor to navigate the website without using "forward" and "back" buttons. The ``` nav ``` element works by navigation links to the different pages
- 
-<a href="https://ibb.co/41dKb7z"><img src="https://i.ibb.co/PDQF2NK/Homepage-firsthalf.png" alt="Homepage-firsthalf" border="0"></a>
 
 ### Homepage:
 A page with the main content and introductory text which show the user what he or she will find on the site and what the use of the site is for. Display main content and is the center page of the websites information and structure
-
-<a href="https://ibb.co/Wgm0kbJ"><img src="https://i.ibb.co/PwqMc7H/Homepage-secondhalf.png" alt="Homepage-secondhalf" border="0"></a>
  
 ### Gallery page:
 This page conatins pictures and videos from the gym which works as a tool to give the visitor a perception of what the gym looks like and give a short feeling on the social atmosphere.
-#### Pictures:
 
-<a href="https://ibb.co/TrXTp5m"><img src="https://i.ibb.co/LvwPbfn/Gallery-pictures.png" alt="Gallery-pictures" border="0"></a>
-#### Videos:
-
-<a href="https://ibb.co/bj9tGtL"><img src="https://i.ibb.co/1YWc4cK/Gallery-video.png" alt="Gallery-video" border="0"></a>
 ### Contact page:
 This page contain the gyms all contact information which enables users to get in contact easily with the gym and find it on the map
 * The contact page is also containing a "message form" to enable visitors to send dircet message directly from the website.
 
-<a href="https://ibb.co/NjVzhzv"><img src="https://i.ibb.co/7WYFcFf/Sk-rmbild-11.png" alt="Contact-page" border="0"></a>
 ### Footer
 The footer sits at the bottom of all the websites pages and display links and font awesome symbols to social media platforms where the gym is active 
 ## future features:
@@ -54,19 +44,6 @@ The fonts and color scheme I have chosen derives from the basic idé that the si
 I have chosen the fonts Cormorant SC because it looks slick and professional. It gives a sense of clarity and is easily read. Together with the second font i´ve chosen it works perfect they compliment each other really well. The second font is Lora which has a small roundness to the look and isn't as sharp as Cormorant SC and this is a good relationship between them
 ### Color:
 The colors on the website are shades of grey which works well with the fonts used. The text has a darker shade of grey to make it easier to read and the background color for the footer and the quotes section are set in grey with a slight tint of light blue for contrast.
-## Wireframes
- 
-### Homepage
-
-<a href="https://ibb.co/MNqWX2d"><img src="https://i.ibb.co/NYwQ4VR/Wireframe-home.png" alt="Wireframe-home" border="0"></a>
-
-### Gallery
-
- <a href="https://ibb.co/gD3221d"><img src="https://i.ibb.co/cN1BB5w/Wireframe-gallery.png" alt="Wireframe-gallery" border="0"></a>
-
- ### Contact page
-
- <a href="https://ibb.co/rsrrDWd"><img src="https://i.ibb.co/hfzz3qY/Wireframe-contact.png" alt="Wireframe-contact" border="0"></a>
  
 ## Technology
 * HTML5
@@ -97,7 +74,19 @@ The colors and fonts have been confirmed to be accessible and easy to read by ru
 * The form has been ckeck and works as intended. 
 * The website has been overhauled and corresponds to the user stories where the visitor can find information of the purpose of the website, pictures, videos and a page with contact information. 
 
+### Homepage
 
+<a href="https://ibb.co/41dKb7z"><img src="https://i.ibb.co/PDQF2NK/Homepage-firsthalf.png" alt="Homepage-firsthalf" border="0"></a>
+
+<a href="https://ibb.co/Wgm0kbJ"><img src="https://i.ibb.co/PwqMc7H/Homepage-secondhalf.png" alt="Homepage-secondhalf" border="0"></a>
+### Gallery
+
+<a href="https://ibb.co/TrXTp5m"><img src="https://i.ibb.co/LvwPbfn/Gallery-pictures.png" alt="Gallery-pictures" border="0"></a>
+
+<a href="https://ibb.co/bj9tGtL"><img src="https://i.ibb.co/1YWc4cK/Gallery-video.png" alt="Gallery-video" border="0"></a>
+### Contact page
+
+<a href="https://ibb.co/NjVzhzv"><img src="https://i.ibb.co/7WYFcFf/Sk-rmbild-11.png" alt="Contact-page" border="0"></a>
 ### fixed bugs
 When i deployed the project the the linking between html files and css stylesheet were broken which resulted in an unstyled website. The root of the problem was that the linking were set to be looking in the wrong file and could not find the files i told i to find. see example below.
 ```html
