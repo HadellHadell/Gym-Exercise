@@ -121,7 +121,7 @@ Commit all data to github by using the `git add .` command and commit. When you 
 * Parts of the code is taken from https://www.geeksforgeeks.org/
 * Parts of code is taken from the Code Institute Love Running project.
 * Code beautifcation html: https://codebeautify.org/htmlviewer
-* Code beautification css: 
+* Code beautification css: https://www.cleancss.com/css-beautify/
 
 ### Media
 
