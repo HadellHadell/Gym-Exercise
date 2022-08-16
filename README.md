@@ -88,6 +88,7 @@ Passed trhought the w3c css validator without errors.
 
 #### Accesability:
 The colors and fonts have been confirmed to be accessible and easy to read by run the website through the developer tool lighthouse. 
+
 <a href="https://ibb.co/FwgNhM2"><img src="https://i.ibb.co/856Tmpq/Sk-rmbild-16.png" alt="developer tools preformance check" border="0"></a> 
 
 ### test cases 
