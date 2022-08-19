@@ -76,18 +76,28 @@ The colors and fonts have been confirmed to be accessible and easy to read by ru
 * The website has been overhauled and corresponds to the user stories where the visitor can find information of the purpose of the website, pictures, videos and a page with contact information. 
 
 ### Homepage
+At the top of the homepage the visitor will find at the top left corner the logo of the page "Gym Exercise" which works like a home button and sends you back to the homepage when clicked. At the top center of the page the visitor find the navigation menu with three page opptions; Home, Gallery and Contact. When clicked the visitor gets redirected to diffrent pages whithout problems. 
 
 <a href="https://ibb.co/41dKb7z"><img src="https://i.ibb.co/PDQF2NK/Homepage-firsthalf.png" alt="Homepage-firsthalf" border="0"></a>
 
+At the second bottom part of the homepage the visitor finds the main content, "Welcome to our gym! and "Motivation", of the page which tells the visitor what the website is about. The visitor will also find a footer with links to social media. The Media links are visiable and the visitor can use them whitout problems. 
+
 <a href="https://ibb.co/Wgm0kbJ"><img src="https://i.ibb.co/PwqMc7H/Homepage-secondhalf.png" alt="Homepage-secondhalf" border="0"></a>
+
 ### Gallery
+
+At this page the visitor find a gallery with pictures and videos which he or she can view whiout problems. 
 
 <a href="https://ibb.co/TrXTp5m"><img src="https://i.ibb.co/LvwPbfn/Gallery-pictures.png" alt="Gallery-pictures" border="0"></a>
 
 <a href="https://ibb.co/bj9tGtL"><img src="https://i.ibb.co/1YWc4cK/Gallery-video.png" alt="Gallery-video" border="0"></a>
+
 ### Contact page
 
+The contact page contains contact information which is placed stratigically on the page to make the content as available as possible. The page contains a message form where the visitor can dirictly contact the gym without and problems.
+
 <a href="https://ibb.co/NjVzhzv"><img src="https://i.ibb.co/7WYFcFf/Sk-rmbild-11.png" alt="Contact-page" border="0"></a>
+
 ### fixed bugs
 When i deployed the project the the linking between html files and css stylesheet were broken which resulted in an unstyled website. The root of the problem was that the linking were set to be looking in the wrong file and could not find the files i told i to find. see example below.
 ```html
