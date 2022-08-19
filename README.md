@@ -1,7 +1,8 @@
  # Gym Exercise
  
 ## Purpose of the project
-The purpose of the project is to build an easy to use static Website for people interested in gym exercising
+The purpose of the project is to build an easy to use static Website for people interested in gym exercising.
+You can find the website <a href="https://hadellhadell.github.io/Gym-Exercise/contact.html">Here</a>.
  
 ## User stories
  
@@ -100,9 +101,16 @@ When removing the ``` ../ ``` before the ``` assets/css/style.css ``` the linkin
 * The webbsite corresponds well to smaller browser windows.
 ## Deployment steps
  
-1. Via Gitpod
-Commit all data to github by using the `git add .` command and commit. When you have committed your data and changes use the `git push` command to push the data to Github.
-2. Via github pages: Enter the repository and navigate to `settings`. On the left side find the category `pages`. Go down to the `branch section` and select `main` in the `drop-down menu`. After you have done these steps press `save button` in the branch section. A link to your deployed website should appear at the top of the page. 
+### Gitpod
+1. Commit all data to github by using the `git add .` command and commit.
+2. When you have committed your data and changes use the `git push` command to push the data to Github.
+
+### Github pages:
+1. Enter the repository and navigate to `settings`.
+2. On the left side find the category `pages`.
+3. Go down to the `branch section` and select `main` in the `drop-down menu`.
+4. After you have done these steps press `save button` in the branch section. 
+5. A link to your deployed website should appear at the top of the page. 
  
 ## Credits
 
